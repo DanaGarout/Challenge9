@@ -1,2 +1,2 @@
-# BBQ Masters
+# 3 preview Cards
 Splash page
